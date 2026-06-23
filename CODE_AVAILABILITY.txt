@@ -1,0 +1,3 @@
+Code Availability Statement
+
+The implementation code, experimental scripts, routing framework, and visualization files used in this study are publicly available through the project repository. The repository contains data preprocessing scripts, XGBoost intrusion detection models, SHAP explainability analysis, trust generation modules, VANET routing algorithms, and Artificial Bee Colony optimization procedures to facilitate reproducibility.

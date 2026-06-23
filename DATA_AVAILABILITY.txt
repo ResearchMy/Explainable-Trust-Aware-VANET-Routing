@@ -1,0 +1,3 @@
+Data Availability Statement
+
+The CICIoT2023 dataset used in this study is publicly available from its official source. Data preprocessing and experimental scripts are included in the repository to support reproducibility.
